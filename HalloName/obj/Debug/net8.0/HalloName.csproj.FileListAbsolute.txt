@@ -1,0 +1,14 @@
+E:\MC Visual Studio\HalloName\bin\Debug\net8.0\HalloName.exe
+E:\MC Visual Studio\HalloName\bin\Debug\net8.0\HalloName.deps.json
+E:\MC Visual Studio\HalloName\bin\Debug\net8.0\HalloName.runtimeconfig.json
+E:\MC Visual Studio\HalloName\bin\Debug\net8.0\HalloName.dll
+E:\MC Visual Studio\HalloName\bin\Debug\net8.0\HalloName.pdb
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.GeneratedMSBuildEditorConfig.editorconfig
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.AssemblyInfoInputs.cache
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.AssemblyInfo.cs
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.csproj.CoreCompileInputs.cache
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.dll
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\refint\HalloName.dll
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.pdb
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\HalloName.genruntimeconfig.cache
+E:\MC Visual Studio\HalloName\obj\Debug\net8.0\ref\HalloName.dll

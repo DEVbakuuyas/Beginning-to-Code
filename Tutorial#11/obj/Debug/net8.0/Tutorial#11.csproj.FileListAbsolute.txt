@@ -1,0 +1,14 @@
+E:\MC Visual Studio - Programme\Tutorial#11\bin\Debug\net8.0\Tutorial#11.exe
+E:\MC Visual Studio - Programme\Tutorial#11\bin\Debug\net8.0\Tutorial#11.deps.json
+E:\MC Visual Studio - Programme\Tutorial#11\bin\Debug\net8.0\Tutorial#11.runtimeconfig.json
+E:\MC Visual Studio - Programme\Tutorial#11\bin\Debug\net8.0\Tutorial#11.dll
+E:\MC Visual Studio - Programme\Tutorial#11\bin\Debug\net8.0\Tutorial#11.pdb
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.GeneratedMSBuildEditorConfig.editorconfig
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.AssemblyInfoInputs.cache
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.AssemblyInfo.cs
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.csproj.CoreCompileInputs.cache
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.dll
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\refint\Tutorial#11.dll
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.pdb
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\Tutorial#11.genruntimeconfig.cache
+E:\MC Visual Studio - Programme\Tutorial#11\obj\Debug\net8.0\ref\Tutorial#11.dll
