@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //Variablendeklaration + Inititialisierung
-            int alter = 25;
+            int alter = 22;
             alter = 30;
             //Jetzt wird 30 ausgegeben
             Console.WriteLine(alter);
