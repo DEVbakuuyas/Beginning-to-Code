@@ -7,7 +7,7 @@
             Console.WriteLine("Geben Sie Ihren Namen ein");
             string name = "";
             name = Console.ReadLine();
-            Console.WriteLine("Hallo " + name + " du Hurensohn");
+            Console.WriteLine("Hallo " + name + "du bist toll");
 
         }
     }
