@@ -1,4 +1,4 @@
-﻿namespace Tutorial_2
+﻿namespace Variablen_2
 {
     internal class Program
     {
